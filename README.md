@@ -3,6 +3,8 @@ An all-purpose Business Process Mining R Shiny application which can perform com
 
 Inspired by the bupaR package, this Shiny application brings out the best of all the use cases that are possible in business process mining coupled with the convenience of changing the unit or level of analysis of the data as it best fits the needs of the user.
 
+The Shiny application can be found here : https://shiivong27.shinyapps.io/Process_Mining/
+
 R packages used:
 
 - bupaR
